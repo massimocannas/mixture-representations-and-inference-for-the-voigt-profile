@@ -1,7 +1,6 @@
 # Case study of Raman spectroscopy data using voigt profile
 
-This is the code we used for the case study in the paper "Mixture Representations and Inference for the Voigt
-Profile". The code in this version is available for case stydy reproducibility purposes only and it requirea the voigt package for estimation procedure. The data used are analyzed in the paper: Pisu et al., Innovative method for provenance studies in cultural heritage: A new algorithm based on observables from high-resolution raman spectra of red ochre, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 329 (2025) 125581.
+This is the code used for the Raman case study in the paper "Bayesian Estimation of Voigt Line-Shape Models for Spectroscopic Data". This version of the code is available for case study reproducibility purposes only and it requirea the voigt package for estimation procedure. Code for simulation reproducibility is also available. For non linear least square analysis of the Raman data set  see: Pisu et al., Innovative method for provenance studies in cultural heritage: A new algorithm based on observables from high-resolution raman spectra of red ochre, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 329 (2025) 125581.
 
 ## Usage
 
