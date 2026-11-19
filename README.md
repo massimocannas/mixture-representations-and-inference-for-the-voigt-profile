@@ -7,7 +7,6 @@ This repository contains the code and supplementary materials accompanying the a
 *Mixture Representations and Inference for the Voigt Profile.*
 
 - **Journal:** Statistical Analysis and Data Mining
-- **First published:** 17 November 2026
 - **Volume:** 19, Issue 6, December 2026
 - **DOI:** [10.1002/sam.70127](https://doi.org/10.1002/sam.70127)
 
