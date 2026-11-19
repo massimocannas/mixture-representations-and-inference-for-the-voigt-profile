@@ -10,14 +10,10 @@ This repository contains the code and supplementary materials accompanying the a
 - **Volume:** 19, Issue 6, December 2026
 - **DOI:** [10.1002/sam.70127](https://doi.org/10.1002/sam.70127)
 
-### Authors
-
-- [Massimo Cannas](https://onlinelibrary.wiley.com/authored-by/Cannas/Massimo)
-- [Nicola Piras](https://onlinelibrary.wiley.com/authored-by/Piras/Nicola)
 
 ### Repository contents
 
-[Add a brief description of the code, scripts, and supplementary materials available in this repository.]
+[the repository contains the code for simulations (Section 4) and case study (Section 5).]
 
 ### Citation
 
