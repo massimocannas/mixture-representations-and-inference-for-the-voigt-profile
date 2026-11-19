@@ -1,11 +1,28 @@
-# Case study of Raman spectroscopy data using voigt profile
 
-This is the code used for the Raman case study in the paper "Bayesian Estimation of Voigt Line-Shape Models for Spectroscopic Data". This version of the code is available for case study reproducibility purposes only and it requirea the voigt package for estimation procedure. Code for simulation reproducibility is also available. For non linear least square analysis of the Raman data set  see: Pisu et al., Innovative method for provenance studies in cultural heritage: A new algorithm based on observables from high-resolution raman spectra of red ochre, Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 329 (2025) 125581.
+# Mixture Representations and Inference for the Voigt Profile
 
-## Usage
+This repository contains the code and supplementary materials accompanying the article:
 
-To run the data application launch the .R file, which recalls the Raman_spectrum.txt data. Be sure to have installed the voigt package.
+**Massimo Cannas and Nicola Piras (2026).**  
+*Mixture Representations and Inference for the Voigt Profile.*
 
-## Citing us
+- **Journal:** Statistical Analysis and Data Mining
+- **First published:** 17 November 2026
+- **Volume:** 19, Issue 6, December 2026
+- **DOI:** [10.1002/sam.70127](https://doi.org/10.1002/sam.70127)
 
-If you use our code in your academic project, please cite our paper using the following: .....
+### Authors
+
+- [Massimo Cannas](https://onlinelibrary.wiley.com/authored-by/Cannas/Massimo)
+- [Nicola Piras](https://onlinelibrary.wiley.com/authored-by/Piras/Nicola)
+
+### Repository contents
+
+[Add a brief description of the code, scripts, and supplementary materials available in this repository.]
+
+### Citation
+
+If you use this code in your research, please cite the original article:
+
+Cannas, M. and Piras, N. (2026). *Mixture Representations and Inference for the Voigt Profile*. [Statistical Analysis and Data Mining], 19(6). https://doi.org/10.1002/sam.70127
+
